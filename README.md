@@ -1,10 +1,14 @@
-### Hi there 👋
+## Hi there 👋, you can call me Memet!
 
-## Github Performance Overall
+- 🔭 I’m currently working on PT Asia Sekuriti Indonesia as a Programmer
+- 💬 Ask me about anything, I love to discuss about anything.
+- 🌱 I’m currently learning scripting language for backend development, thats so cool, I like it.
+
+### Github Performance Overall
 
 ![Riky's github stats](https://github-readme-stats.vercel.app/api?username=rikyhidayat21&show_icons=true&them=cobalt)
 
-## Most Used Language
+### Most Used Language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikyhidayat21)
 
