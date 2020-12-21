@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Github Performance Overall
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rikyhidayat21&show_icons=true)]
+
 <!--
 **rikyhidayat21/rikyhidayat21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
