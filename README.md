@@ -8,8 +8,6 @@
 
 ![Riky's github stats](https://github-readme-stats.vercel.app/api?username=rikyhidayat21&show_icons=true&them=cobalt)
 
-### Most Used Language
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikyhidayat21)
 
 <!--
