@@ -1,8 +1,8 @@
 ## Hi there 👋, you can call me Memet!
 
 - 🔭 I’m currently working on PT Asia Sekuriti Indonesia as a Programmer
-- 💬 Ask me about anything, I love to discuss about anything.
 - 🌱 I’m currently learning scripting language for backend development, thats so cool, I like it.
+- 💬 Ask me about anything, I love to discuss about anything.
 
 ### Github Performance Overall
 
