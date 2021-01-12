@@ -1,4 +1,4 @@
-## Hi there 👋, you can call me Memet!
+## Hi there 👋, you can call me Riky!
 
 - 🔭 I’m currently working on PT Asia Sekuriti Indonesia as a Programmer
 - 🌱 I’m currently learning scripting language for backend development, thats so cool, I like it.
