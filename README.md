@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on PT Asia Sekuriti Indonesia as a Programmer
 - 🌱 I’m currently learning scripting language for backend development, thats so cool, I like it.
+- 👯 I’m looking to collaborate on fullstack using Next.js as main tools.
 - 💬 Ask me about anything, I love to discuss about anything.
 
 ### Github Performance Overall
