@@ -1,10 +1,8 @@
 ## Hi there 👋, you can call me Riky!
 
 - 🔭 I’m currently working on PT Asia Sekuriti Indonesia as a Software Engineer
-- 🌱 I’m currently learning Golang as second language.
+- 🌱 I’m currently learning Ruby on Rails.
 - 👀 I'm interested in software development.
-- 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about anything, I love to discuss about anything.
 - 📫 How to reach me: rikyhidayat21@gmail.com
 
 ### Github Performance Overall
