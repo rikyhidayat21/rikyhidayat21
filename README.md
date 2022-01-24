@@ -1,6 +1,6 @@
 ## Hi there 👋, you can call me Riky!
 
-- 🔭 I’m currently working on PT Asia Sekuriti Indonesia as a Software Engineer
+- 🔭 I’m a Software Engineer at Mekari.
 - 🌱 I’m currently learning Ruby on Rails.
 - 👀 I'm interested in software development.
 - 📫 How to reach me: rikyhidayat21@gmail.com
