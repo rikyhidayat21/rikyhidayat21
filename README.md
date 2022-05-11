@@ -1,7 +1,7 @@
 ## Hi there 👋, you can call me Riky!
 
-- 🔭 I’m a Software Engineer at Mekari.
-- 🌱 I’m currently learning Ruby on Rails.
+- 🌱 I’m currently working on codebase with the main stack Ruby on Rails.
+- 🔭 I'm currently learning to create [youtube](https://www.youtube.com/channel/UCxapt1llmYg-UIes2CiM-bg) video for what I learned.
 - 👀 I'm interested in software development.
 - 📫 How to reach me: [profile](https://www.linkedin.com/in/rikyhidayat/)
 
