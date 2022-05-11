@@ -3,7 +3,7 @@
 - 🔭 I’m a Software Engineer at Mekari.
 - 🌱 I’m currently learning Ruby on Rails.
 - 👀 I'm interested in software development.
-- 📫 How to reach me: rikyhidayat21@gmail.com
+- 📫 How to reach me: [approach](https://www.linkedin.com/in/rikyhidayat/)
 
 ### Github Performance Overall
 
