@@ -1,8 +1,8 @@
-## Hi there 👋, you can call me Riky!
+# Hi there 👋, you can call me Riky!
 
 
-# 💫 About Me:
-<b>Hi there 👋, you can call me Riky!</b><br>
+## 💫 About Me:
+
 🔭 I’m currently working on Mekari as a software engineer<br>🌱 I’m currently learning to create a video in my [youtube](https://www.youtube.com/channel/UCxapt1llmYg-UIes2CiM-bg) channel<br>🌱 I’m currently learning a product management<br>
 <!--  💬 Ask me about<br> -->
 
