@@ -1,6 +1,12 @@
 ## Hi there 👋, you can call me Riky!
 
 
+# 💫 About Me:
+<b>Hi there 👋, you can call me Riky!</b><br>
+🔭 I’m currently working on Mekari as a software engineer<br>🌱 I’m currently learning to create a video in my [youtube](https://www.youtube.com/channel/UCxapt1llmYg-UIes2CiM-bg) channel<br>🌱 I’m currently learning a product management<br>
+<!--  💬 Ask me about<br> -->
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rikyhidayat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rikymehmet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rikyhidayat) 
 
