@@ -3,9 +3,9 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently working on Mekari as a software engineer<br>🌱 I’m currently learning to create a video for sharing knowledge on my [youtube](https://www.youtube.com/channel/UCxapt1llmYg-UIes2CiM-bg) channel<br>
+🔭 A father of one daughter who loves to code and share<br>🌱 I created videos for sharing my journey and knowledge on my [youtube](https://www.youtube.com/@rikyhidayat) channel<br>
 
-As a software engineer with a background in education, I have a strong passion for sharing knowledge and teaching others. My experience as a teacher on a vocational school has honed my ability to explain complex ideas in a clear and concise manner. I enjoy helping others learn and grow, and I bring this enthusiasm for teaching to my role as a software engineer.
+As a Software Engineer with a background in education, I have a strong passion for sharing knowledge and teaching others. My experience as a teacher at a vocational school has honed my ability to explain complex ideas in a clear and concise manner. I enjoy helping others learn and grow, and I bring this enthusiasm for teaching to my role as a software engineer.
 <!--  💬 Ask me about<br> -->
 
 
