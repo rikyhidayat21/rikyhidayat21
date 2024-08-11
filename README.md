@@ -3,9 +3,27 @@
 
 ## 💫 About Me:
 
-🔭 A father of one daughter who loves to code and share<br>🌱 I created videos for sharing my journey and knowledge on my [youtube](https://www.youtube.com/@rikyhidayat) channel<br>
+👨‍👧 Proud dad of one, practical coder, and accidental comedian (my daughter laughs at my debugging faces)
 
-As a Software Engineer with a background in education, I have a strong passion for sharing knowledge and teaching others. My experience as a teacher at a vocational school has honed my ability to explain complex ideas in a clear and concise manner. I enjoy helping others learn and grow, and I bring this enthusiasm for teaching to my role as a software engineer.
+🎥 YouTube sensation in the making (current subscribers: mom and the family goldfish)
+
+🧠 Ex-teacher turned software problem-solver, specializing in turning "Huh?" into "Oh, that makes sense!"
+
+💻 I code for work and learning, not for sport (my keyboard thanks me for the reasonable hours)
+
+🏫 Former vocational school teacher who traded chalk for keyboards (less dust, more coffee stains!)
+
+🔍 On a mission to make work-related code as understandable as a well-organized grocery list
+
+🚀 Transforming requirements into functional code, and confusion into clarity, one video at a time
+
+🎓 My teaching background means I can explain a for-loop so well, even my non-tech friends nod appreciatively
+
+💡 I believe in writing code that's clean enough for my future self to understand (and thank me later)
+
+🎭 By day, a down-to-earth software engineer. By night, a dad joke connoisseur and bedtime story debugger
+
+Join me on this relatable journey through the world of practical coding, where we learn, work, and occasionally chuckle at our own 'off-by-one' errors! 🖥️😅📚
 <!--  💬 Ask me about<br> -->
 
 
