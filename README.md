@@ -27,4 +27,4 @@ Ex-teacher at heart: I like turning "Huh?" into "Oh, that makes sense!" 👨‍�
 
 [![Website](https://img.shields.io/badge/rikyhidayat.dev-000000?style=flat&logo=About.me&logoColor=white)](https://rikyhidayat.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikyhidayat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@rikyhidayatdev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rikyhidayatdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rikyhidayatdev/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikyhidayat21&theme=dracula&layout=compact)
+![Most used languages](assets/top-langs.svg)

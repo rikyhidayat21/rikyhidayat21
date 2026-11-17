@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="354" viewBox="0 0 480 354" role="img" aria-labelledby="t">
+<title id="t">Most used languages: Ruby 49.1%, JavaScript 40.1%, Vue 3.7%, TypeScript 3.6%, Svelte 1.7%, Astro 1.5%, Go 0.2%, Rust 0.1%</title>
+<style>
+:root{--bg:#ffffff;--head:#f3f4f6;--text:#0d1117;--muted:#57606a;--border:#e2e5e9;--track:#eaeef2;--brand:#ff6b35;--accent:#c4441a}
+@media (prefers-color-scheme: dark){:root{--bg:#0d1117;--head:#161b22;--text:#e6edf3;--muted:#8b949e;--border:#30363d;--track:#21262d;--accent:#ff6b35}}
+.card{fill:var(--bg);stroke:var(--border)}
+.head{fill:var(--head)}
+.rule{stroke:var(--border)}
+.mono{font:500 12px 'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,Consolas,monospace}
+.path{fill:var(--muted)}
+.cmd{font:600 13px 'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,Consolas,monospace;fill:var(--text)}
+.prompt{fill:var(--accent)}
+.name{font:600 12px 'Plus Jakarta Sans',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;fill:var(--text)}
+.pct{font:500 12px 'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,Consolas,monospace;fill:var(--muted)}
+.track{fill:var(--track)}
+.bar{fill:var(--brand);opacity:.55;transform-box:fill-box;transform-origin:left;animation:grow .8s cubic-bezier(.2,.8,.2,1) both}
+.bar.top{opacity:1}
+.row{animation:fade .5s ease-out both}
+.foot{font:400 10px 'IBM Plex Mono',ui-monospace,Menlo,monospace;fill:var(--muted)}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion: reduce){.bar,.row{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="479" height="353" rx="10" class="card"/>
+<path d="M0.5 10.5a10 10 0 0 1 10-10h459a10 10 0 0 1 10 10v24h-479z" class="head"/>
+<line x1="0.5" y1="34.5" x2="479.5" y2="34.5" class="rule"/>
+<circle cx="20" cy="17" r="5" fill="#ff5f57"/><circle cx="36" cy="17" r="5" fill="#febc2e"/><circle cx="52" cy="17" r="5" fill="#28c840"/>
+<text x="240" y="21" class="mono path" text-anchor="middle">~/rikyhidayat21</text>
+<text x="24" y="62" class="cmd"><tspan class="prompt">$</tspan> langs --top 8</text>
+<text x="456" y="62" class="foot" text-anchor="end">updated 2026-11-17</text>
+<g transform="translate(0 100)" class="row" style="animation-delay:0.15s">
+<rect x="24" y="-4" width="8" height="8" rx="2" fill="#701516"/>
+<text x="40" y="4" class="name">Ruby</text>
+<rect x="120" y="-4" width="280" height="8" rx="4" class="track"/>
+<rect x="120" y="-4" width="280.00" height="8" rx="4" class="bar top" style="animation-delay:0.15s"/>
+<text x="456" y="4" class="pct" text-anchor="end">49.1%</text>
+</g>
+<g transform="translate(0 130)" class="row" style="animation-delay:0.23s">
+<rect x="24" y="-4" width="8" height="8" rx="2" fill="#f1e05a"/>
+<text x="40" y="4" class="name">JavaScript</text>
+<rect x="120" y="-4" width="280" height="8" rx="4" class="track"/>
+<rect x="120" y="-4" width="228.55" height="8" rx="4" class="bar" style="animation-delay:0.23s"/>
+<text x="456" y="4" class="pct" text-anchor="end">40.1%</text>
+</g>
+<g transform="translate(0 160)" class="row" style="animation-delay:0.31s">
+<rect x="24" y="-4" width="8" height="8" rx="2" fill="#41b883"/>
+<text x="40" y="4" class="name">Vue</text>
+<rect x="120" y="-4" width="280" height="8" rx="4" class="track"/>
+<rect x="120" y="-4" width="21.29" height="8" rx="4" class="bar" style="animation-delay:0.31s"/>
+<text x="456" y="4" class="pct" text-anchor="end">3.7%</text>
+</g>
+<g transform="translate(0 190)" class="row" style="animation-delay:0.39s">
+<rect x="24" y="-4" width="8" height="8" rx="2" fill="#3178c6"/>
+<text x="40" y="4" class="name">TypeScript</text>
+<rect x="120" y="-4" width="280" height="8" rx="4" class="track"/>
+<rect x="120" y="-4" width="20.28" height="8" rx="4" class="bar" style="animation-delay:0.39s"/>
+<text x="456" y="4" class="pct" text-anchor="end">3.6%</text>
+</g>
+<g transform="translate(0 220)" class="row" style="animation-delay:0.47s">
+<rect x="24" y="-4" width="8" height="8" rx="2" fill="#ff3e00"/>
+<text x="40" y="4" class="name">Svelte</text>
+<rect x="120" y="-4" width="280" height="8" rx="4" class="track"/>
+<rect x="120" y="-4" width="9.91" height="8" rx="4" class="bar" style="animation-delay:0.47s"/>
+<text x="456" y="4" class="pct" text-anchor="end">1.7%</text>
+</g>
+<g transform="translate(0 250)" class="row" style="animation-delay:0.55s">
+<rect x="24" y="-4" width="8" height="8" rx="2" fill="#ff5a03"/>
+<text x="40" y="4" class="name">Astro</text>
+<rect x="120" y="-4" width="280" height="8" rx="4" class="track"/>
+<rect x="120" y="-4" width="8.40" height="8" rx="4" class="bar" style="animation-delay:0.55s"/>
+<text x="456" y="4" class="pct" text-anchor="end">1.5%</text>
+</g>
+<g transform="translate(0 280)" class="row" style="animation-delay:0.63s">
+<rect x="24" y="-4" width="8" height="8" rx="2" fill="#00ADD8"/>
+<text x="40" y="4" class="name">Go</text>
+<rect x="120" y="-4" width="280" height="8" rx="4" class="track"/>
+<rect x="120" y="-4" width="4.00" height="8" rx="4" class="bar" style="animation-delay:0.63s"/>
+<text x="456" y="4" class="pct" text-anchor="end">0.2%</text>
+</g>
+<g transform="translate(0 310)" class="row" style="animation-delay:0.71s">
+<rect x="24" y="-4" width="8" height="8" rx="2" fill="#dea584"/>
+<text x="40" y="4" class="name">Rust</text>
+<rect x="120" y="-4" width="280" height="8" rx="4" class="track"/>
+<rect x="120" y="-4" width="4.00" height="8" rx="4" class="bar" style="animation-delay:0.71s"/>
+<text x="456" y="4" class="pct" text-anchor="end">0.1%</text>
+</g>
+</svg>
