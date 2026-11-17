@@ -11,7 +11,7 @@ Ex-teacher at heart: I like turning "Huh?" into "Oh, that makes sense!" 👨‍�
 
 - 💼 **At work**: product analytics pipelines, Storyblok-powered marketing pages, and data-informed funnel fixes at Donorbox
 - 🎬 **Making tech animations** in Bahasa Indonesia: short explainers like *Explainer*, *Mitos atau Fakta*, and *KABAR DEV* (BI-FAST, cyber security, phone privacy, ...)
-- 💰 **Dompet**: an offline-first PWA money tracker I built for my wife and me to manage our personal finances (SvelteKit + Dexie + SQLite). Want to try it? Let me know!
+- 💰 **Dompet**: an offline-first PWA money tracker I built for my wife and me to manage our personal finances (SvelteKit + Dexie + SQLite).
 
 ## ✨ Highlights
 
