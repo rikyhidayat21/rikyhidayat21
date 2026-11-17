@@ -1,49 +1,30 @@
-# Hi there 👋, you can call me Riky!
+# Hi there 👋, I'm Riky
 
+**Software Engineer @ [Donorbox](https://donorbox.org)** (GTM team, remote) · based in Bandung, Indonesia 🇮🇩
 
-## 💫 About Me:
+5+ years building payment systems, keeping production healthy, and lately turning product data into growth.
+Ex-teacher at heart: I like turning "Huh?" into "Oh, that makes sense!" 👨‍👧 Proud dad of one.
 
-👨‍👧 Proud dad of one, practical coder, and accidental comedian (my daughter laughs at my debugging faces)
+🌐 **[rikyhidayat.dev](https://rikyhidayat.dev)**: my CV, projects, blog, and animations
 
-🎥 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rikyhidayat) sensation in the making (current subscribers: mom, wife, and the family goldfish)
+## 🔭 What I'm up to
 
-🧠 Ex-teacher turned software problem-solver, specializing in turning "Huh?" into "Oh, that makes sense!"
+- 💼 **At work**: product analytics pipelines, Storyblok-powered marketing pages, and data-informed funnel fixes at Donorbox
+- 🎬 **Making tech animations** in Bahasa Indonesia: short explainers like *Explainer*, *Mitos atau Fakta*, and *KABAR DEV* (BI-FAST, cyber security, phone privacy, ...)
+- 💰 **Dompet**: an offline-first PWA money tracker I built for my wife and me to manage our personal finances (SvelteKit + Dexie + SQLite). Want to try it? Let me know!
 
-<!-- 💻 I code for work and learning, not for sport (my keyboard thanks me for the reasonable hours) -->
+## ✨ Highlights
 
-<!--  🏫 Former vocational school teacher who traded chalk for keyboards (less dust, more coffee stains!) -->
+- 💳 Owned payment services at **Mekari** processing **Rp100B+/month** at 99.9% uptime; cut resource usage 50% by rewriting services in Go
+- 🚨 Handled critical production incidents at Donorbox and helped bring MTTR down
+- 🎓 Taught backend development as a coding bootcamp instructor
 
-<!--  🔍 On a mission to make work-related code as understandable as a well-organized grocery list -->
+## 🛠️ Stack I use these days
 
-<!--  🚀 Transforming requirements into functional code, and confusion into clarity, one video at a time -->
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white)
 
-<!--  🎓 My teaching background means I can explain a for-loop so well, even my non-tech friends nod appreciatively -->
+## 📫 Find me
 
-<!-- 💡 I believe in writing code that's clean enough for my future self to understand (and thank me later) -->
+[![Website](https://img.shields.io/badge/rikyhidayat.dev-000000?style=flat&logo=About.me&logoColor=white)](https://rikyhidayat.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikyhidayat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@rikyhidayatdev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rikyhidayatdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rikyhidayatdev/)
 
-🎭 By day, a down-to-earth software engineer. By night, a dad joke connoisseur and bedtime story debugger
-
-<!-- Join me on this relatable journey through the world of practical coding, where we learn, work, and occasionally chuckle at our own 'off-by-one' errors! 🖥️😅📚 -->
-<!--  💬 Ask me about<br> -->
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rikyhidayat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rikymehmet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rikyhidayat) 
-
-# 💻 Tools I've used:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=rikyhidayat21&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rikyhidayat21&theme=gruvbox&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikyhidayat21&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikyhidayat21&theme=gruvbox&layout=compact) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikyhidayat21&theme=dracula&layout=compact)
-<!-- ### ✍️ Random Dev Quote -->
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) -->
-
----
-
-<!-- [![](https://visitcount.itsvg.in/api?id=rikyhidayat21&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
